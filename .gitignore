@@ -1,0 +1,5 @@
+food-101.zip
+*.zip
+food-101/
+__pycache__/
+*.pyc
